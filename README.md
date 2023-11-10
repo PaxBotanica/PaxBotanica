@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PaxBotanica
+- 👋 Hi, I’m John from Australia.
 - 👀 I’m interested in developing old and new roman city builders
-- 🌱 I’m currently learning about GitHub
+- 🌱 I’m currently learning about GitHub and how this place works
 - 💞️ I’m looking to collaborate on Caesar 3 Mods
 - 📫 How to reach me? email can be requested.
 
